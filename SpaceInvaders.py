@@ -3,6 +3,8 @@ import numpy as np
 import sys
 from random import randint
 
+#TODO: Add sounds?
+
 class Board:
     def __init__(self, screen, score = 0):
         self.screen = screen
